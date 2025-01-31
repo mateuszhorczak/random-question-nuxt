@@ -1,0 +1,41 @@
+1.1. Scharakteryzuj koncepcję programowania strukturalnego, ilustrując ją na przykładzie języka C.
+1.2. Omów pojęcia wyrażenia i instrukcji w programowaniu. Jakie są między nimi różnice?
+1.3 Wyjaśnij, czym jest funkcja w programowaniu oraz z jakich części się składa. Jaką rolę pełnią poszczególne jej elementy? Jakie są sposoby przekazywania parametrów do funkcji?
+1.4. Jakie są cechy pamięci statycznej, stosu oraz sterty. Podaj przykłady, w jakich sytuacjach każdy typ pamięci jest używany.
+1.5. Jak działa mechanizm rekurencji w programowaniu i kiedy warto go stosować?
+1.6. Wyjaśnij pojęcia wskaźnika i referencji. Jakie możliwości oferują, z jakimi problemami należy się liczyć?
+1.7. Omów funkcję i zastosowanie typów tablicowych w programowaniu strukturalnym, a takżeprzedstaw ich rodzaje.
+1.8. Wyjaśnij, w jaki sposób struktury i unie pozwalają na efektywne zarządzanie danymi w języku C. Jakie są typowe scenariusze ich zastosowania?
+2.1. Czym są klasa i obiekt w programowaniu obiektowym? Omów ich składowe.
+2.2. Na czym polega koncepcja abstrakcji w programowaniu obiektowym i jakie mechanizmy języków programowania ją wspierają?
+2.3. Czym jest dziedziczenie w programowaniu obiektowym i kiedy warto je stosować?
+2.4. Czym jest polimorfizm i jak realizuje się go w językach obiektowych?
+2.5. Na czym polega hermetyzacja (enkapsulacja) i jakie korzyści wynikają z jej stosowania?
+2.6. Czym jest kompozycja w programowaniu obiektowym i jakie jest jej zastosowanie?
+2.7. Na czym polega mechanizm wyjątków w programowaniu obiektowym i jaka jest jego rola?
+2.8. Jak wygląda zarządzanie pamięcią w kontekście czasu życia obiektów w programowaniu obiektowym?
+2.9. Czym są typy generyczne w programowaniu obiektowym i jakie są korzyści ich stosowania?
+3.1. Omów diagram stanów procesu i przejścia pomiędzy stanami.
+3.2. Omów zasadę działania monitora i zmiennych warunkowych.
+3.3. Omów algorytmy szeregowania rotacyjny, FCFS, SJF i SJF z wywłaszczaniem.
+4.1. Co to są systemy kontroli wersji, jakie są ich zalety?
+4.2. Czym różni się profilowanie pamięci kodu zarządzanego a kodu niezarządzanego?
+4.3. Do czego służą narzędzia do zarządzania błędami, jakie są ich zalety?
+4.4. Co to jest refaktoring kodu, podaj dwa przykłady?
+5.1. Wymień i krótko scharakteryzuj najważniejsze modele cyklu życia oprogramowania.
+5.2. Wymień i krótko omów zastosowania najważniejszych diagramów UML.
+5.3. Podaj i krótko scharakteryzuj rodzaje testów oprogramowania.
+5.4. Podaj przykłady dwóch metryk dla oceny jakości programu obiektowego i skomentuj jakie kryteria jakości te metryki odzwierciedlają.
+6.1. Podaj czynniki wpływające na wydajność bazy danych.
+6.2. Podaj kroki wykonywania zapytań SQL i sposoby zwiększania szybkości wykonania.
+7.1. Podaj definicję i znaczenie kluczy w relacyjnych bazach danych.
+7.2. Podaj typy zapytań SQL
+7.3. Na czym polega proces normalizacji relacyjnej bazy danych
+7.4. Omów możliwości organizacji pliku rekordów.
+7.5. Opisz budowę indeksu w postaci B+ drzewa.
+7.6. Co to są transakcje w bazach danych? Omów podstawowe właściwości transakcji (ACID).
+8.1. Algorytmy przeszukiwania przestrzeni stanów w systemach sztucznej inteligencji
+8.2. Obliczenia ewolucyjne
+8.3. Polska Szkoła Sztucznej Inteligencji - zbiory przybliżone
+8.4. Wnioskowanie oparte na logice w systemach sztucznej inteligencji
+8.5. Sztuczne sieci neuronowe
