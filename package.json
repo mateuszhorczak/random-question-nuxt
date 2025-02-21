@@ -14,11 +14,11 @@
     "@nuxt/ui": "2.21.0",
     "nuxt": "^3.15.4",
     "typescript": "^5.7.3",
-    "vue": "latest",
-    "vue-router": "latest"
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
   },
   "packageManager": "pnpm@9.15.3+sha512.1f79bc245a66eb0b07c5d4d83131240774642caaa86ef7d0434ab47c0d16f66b04e21e0c086eb61e62c77efc4d7f7ec071afad3796af64892fae66509173893a",
   "devDependencies": {
-    "@nuxt/devtools": "2.0.0-beta.4"
+    "@nuxt/devtools": "2.1.0"
   }
 }

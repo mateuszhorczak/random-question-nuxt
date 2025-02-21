@@ -17,6 +17,7 @@ const getNewQuestion = () => {
 
 const reset = () => {
   refresh()
+  currentQuestion.value = ''
 }
 
 const currentQuestion = ref('')
@@ -25,7 +26,7 @@ const currentQuestion = ref('')
 <template>
   <div class="bg-gray-900 h-screen">
     <div class="flex">
-      <UCard class="mx-auto mt-16 w-1/2">
+      <UCard class="mx-auto mt-16 w-1/2" :ui="{background: ''}">
         <template #header>
           <AtomsHeading>Random questions</AtomsHeading>
         </template>
